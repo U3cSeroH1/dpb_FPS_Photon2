@@ -1,0 +1,5 @@
+# dpb_FPS_Photon2
+
+Photon2を使った対戦型マルチプレイFPS
+
+githubPagesでプレイできるようにしたもの
